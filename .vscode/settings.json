@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "/home/jovyan/work/pysystemtrade/pysystemtrade"
+    ],
+    "python.pythonPath": "/opt/conda/envs/py310_for_pysystemtrade/bin/python",  // 确保使用正确的 Python 解释器
+    "python.languageServer": "Pylance"
+}
